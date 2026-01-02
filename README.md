@@ -75,3 +75,5 @@ All data structures are allocated on the stack using sub rsp, N to reserve space
 
 This implementation demonstrates complete X11 GUI programming in pure Assembly, handling window creation, event processing, text rendering, and arithmetic computation without any high-level language dependencies.
 ​
+
+"DONT USE WAYLAND OR HYPRLAND"
