@@ -24,6 +24,7 @@ X11 Connection Layer: Establishes a Unix domain socket connection to /tmp/.X11-u
 
 ​
 
+
 Resource Management: Creates X11 resources including the window, two graphics contexts (one for text, one for buttons), and a font resource. Resource IDs are generated using the id_base and id_mask values from the server handshake.
 
 ​
