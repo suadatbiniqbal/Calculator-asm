@@ -2,7 +2,7 @@ Build and Run Instructions
 
 bash
 # Install required packages (Ubuntu/Debian)
-sudo apt-get install nasm
+sudo apt-get install nasm.
 
 
 # Assemble the code
