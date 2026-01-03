@@ -4,6 +4,7 @@ bash
 # Install required packages (Ubuntu/Debian)
 sudo apt-get install nasm
 
+
 # Assemble the code
 nasm -f elf64 -g calculator.asm -o calculator.o
 
