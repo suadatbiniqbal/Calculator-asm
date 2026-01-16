@@ -943,9 +943,6 @@ int_to_string:
     pop rbp
     ret
 
-;========================================
-; Error Exit
-;========================================
 error_exit:
     mov rax, SYS_EXIT
     mov rdi, 1
